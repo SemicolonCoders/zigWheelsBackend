@@ -1,26 +1,35 @@
-ZigWheels:
+# ZigWheels:
 ZigWheels is a comprehensive automotive website that provides detailed information on new and used cars, bikes, and scooters. It features extensive vehicle listings with specifications and prices, expert and user reviews, the latest automotive news, and a variety of tools such as EMI calculators and comparison tools. The site also offers high-quality photos and videos, along with a directory of authorized dealerships and service centers, making it a valuable resource for automotive enthusiasts and prospective buyers.
 
-Features:
+# Features:
 Category Selection:ZigWheels provides a comprehensive suite of features for automotive enthusiasts and buyers, including detailed listings for new and used cars, bikes, and scooters with extensive specifications and pricing information. Users can browse products by category and add multiple items to their cart. Responsive Design: The website provides a seamless experience across various devices. Cart Management: Users can view and manage the items in their cart before making a purchase.
 
 
 
 # Main pages of the project:
 
-![Home](https://github.com/SemicolonCoders/zig-wheel/assets/138607997/2a98541a-f46c-432e-a3d5-490bbefbaf67)
+![Home](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/ea3740af-43bd-407d-8360-0ac7ed97d5f0)
 
 
-#  All products 
+#  All products :
+All:
 
-![all](https://github.com/SemicolonCoders/zig-wheel/assets/138607997/7cc375fc-680e-4bf9-a99b-d44da60dca2d)
-![bike](https://github.com/SemicolonCoders/zig-wheel/assets/138607997/30be942b-558b-4645-9bbd-225dea5dddb3)
-![scooty](https://github.com/SemicolonCoders/zig-wheel/assets/138607997/ab533389-bc46-4655-b620-d022caa0e05f)
-![cars](https://github.com/SemicolonCoders/zig-wheel/assets/138607997/509a3b93-ca30-4e3c-9559-770abdb952ad)
+![update home](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/c9176b80-93bd-4c60-9bd7-0dfcfb53162b)
 
+Bikes:
+![bike](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/e88e6b7a-b540-4d8c-9d02-8be01f850d35)
+
+Cars:
+![cars](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/4f2b676b-7e33-465e-8b13-a5adf3544098)
+
+Scooty:
+
+![scooty](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/ec31aac4-a46e-4f92-a35e-71a3533777f9)
 
 #  Gallery 
-![zig3](https://github.com/SemicolonCoders/zig-wheel/assets/138607997/b158a7fd-8b8d-4965-a91c-4528f6cb12de)
+
+![zig3](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/7d3b5ad1-0dd5-4cf9-9561-031446640716)
+
 
 #  About Us
 
@@ -46,8 +55,12 @@ after adding items:
 
 click on checkout:
 
+![chekot](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/0ff75a38-1da3-4c3d-8599-05b688c0b55d)
+
+
 submit after checkout form filling:
 
+![shopping](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/6ae607c2-fa4a-487c-9a37-7b81736ebd4e)
 
 🌿 Project Folder Structure: Backend
 [src/] in this page all the components are imported and applied [src/index.js] for managing the whole the website.
@@ -58,6 +71,13 @@ submit after checkout form filling:
 [src/routes] all routes are available here.
 [src/schema] all product,cart schema are available here.
 [src/utilities] JWT authentication file is available here.
+
+# API Testing: 
+Postman used for API testing
+![api](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/9b92bd5f-9221-4fbd-98c7-ac128fa27942)
+
+# Database: Mongodb databas used for data colletion
+![m](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/d8bd8966-41af-47e5-b7df-cde19a2d21a3)
 
 🌿 Project Folder Structure: Fronted
 [src/] in this page all the components are imported and applied [src/App.jsx] for managing the whole the website.
