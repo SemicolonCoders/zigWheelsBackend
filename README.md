@@ -121,21 +121,21 @@ Go to any Browser and search localhost:5000
 ✨Deployment
 Link of gitgub page : 
 
-frontend Link: https://github.com/SemicolonCoders/zigWheelsFrontend 
+frontend Link: "https://github.com/SemicolonCoders/zigWheelsFrontend" 
 
-backend Link: https://github.com/SemicolonCoders/zigWheelsBackend
+backend Link: "https://github.com/SemicolonCoders/zigWheelsBackend"
 
 Link of flipkart app video: 
 
 # Web Deployed Link:
  
- Frontend link: https://zig-wheels-frontend.vercel.app
+ Frontend link: "https://zig-wheels-frontend.vercel.app"
 
- Backend link:https://zigwheelsbackend-4.onrender.com
+ Backend link:"https://zigwheelsbackend-4.onrender.com"
 # note:
  (please retry for render link if it not run in once because its taking a two-three times to run.)
 
-backen
+# backend:
 This is a backend application for a platform similar to ZigWheels. The backend is built with Node.js, Express, and MongoDB.
 
 Table of Contents
@@ -149,7 +149,7 @@ License
 Installation
 Clone the repository:
 
-git clone 
+# git clone : "https://github.com/SemicolonCoders/zigWheelsBackend.git"
 
 # Install dependencies:
 npm install
