@@ -90,36 +90,7 @@ Postman used for API testing
 
 # File Description;
 
-src/
-├── App.jsx
-├── App.css
-├── client.jsx
-├── main.jsx
-├── other files...
-├── components/
-│   ├── Modal.jsx
-│   ├── Navbar.jsx
-│   ├── Searchbar.jsx
-├── context/
-│   └── storeContext.jsx
-├── Data/
-│   ├── BikeData.jsx
-│   ├── CarData.jsx
-│   └── ScootyData.jsx
-├── pages/
-│   ├── AboutUs.jsx
-│   ├── Cart.jsx
-│   ├── Footer.jsx
-│   ├── Gallery.jsx
-│   ├── Home.jsx
-│   ├── Login.jsx
-│   └── Signin.jsx
-├── Products/
-│   ├── All.jsx
-│   ├── Cars.jsx
-│   ├── Bike.jsx
-│   └── Scooty.jsx
-
+src/![Capture](https://github.com/SemicolonCoders/zigWheelsBackend/assets/138607997/b4370843-016d-482d-83ea-d290e0773712)
 
 🌐 Languages and Tools used
 React + Vite:-Javasript library which used to make Ui.
