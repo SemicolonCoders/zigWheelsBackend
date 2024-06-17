@@ -14,7 +14,7 @@ const app = express();
 const corsOptions = {
   origin: [
     'http://localhost:5173', // Local development URL
-    ' http://zig-wheels-frontend.vercel.app', // Deployed frontend URL
+    'https://zig-wheels-frontend.vercel.app', // Deployed frontend URL
   ],
   credentials: true,
   optionsSuccessStatus: 200,
